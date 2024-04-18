@@ -6,7 +6,7 @@
 ---
 
 Esse projeto trata-se de um aplicativo de pesquisas que faz perguntas pra um usuario, e quando finalizado ele fecha salva um arquivo CSV
-O projeto está funcionando 100% e para desenvolver nós utilizamos: Python.
+O projeto está funcionando 100% e para desenvolver nós utilizamos o: Python.
 
 ## 🖥️ Demonstração
 
